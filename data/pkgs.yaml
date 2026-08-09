@@ -1,0 +1,2 @@
+packages:
+  - { name: "commonmark", desc: "Strict CommonMark v0.31.2 Markdown-to-HTML renderer — 652/652 spec, byte-exact, GFM behind Options.", url: "https://github.com/go-commonmark/commonmark", doc: "https://pkg.go.dev/github.com/go-commonmark/commonmark" }
